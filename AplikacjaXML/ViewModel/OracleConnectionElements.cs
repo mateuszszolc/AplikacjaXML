@@ -8,8 +8,8 @@ namespace AplikacjaXML.ViewModel
 {
    public class OracleConnectionElements
     {
-        public static string connectionString { get; } = "Data Source = 217.173.198.135:1522/orcltp.iaii.local;" +
-        " User ID = s95567;" +
-        " Password = s95567";
+        public static string connectionString { get; } = "Data Source = exampleServerIP;" +
+        " User ID = exampleUser;" +
+        " Password = examplePassword";
     }
 }
