@@ -1,0 +1,16 @@
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\bin\Debug\AplikacjaXML.exe.config
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\bin\Debug\AplikacjaXML.exe
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\bin\Debug\AplikacjaXML.pdb
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\App.g.cs
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML_MarkupCompile.cache
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML_MarkupCompile.lref
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\MainWindow.baml
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.g.resources
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.Properties.Resources.resources
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.exe
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.pdb
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mateu\source\repos\AplikacjaXML\AplikacjaXML\obj\Debug\AplikacjaXML.csproj.CopyComplete
